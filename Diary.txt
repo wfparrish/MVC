@@ -1,0 +1,28 @@
+6/7/2020
+
+Completed most of Tania Rascia MVC app.
+
+Start with local storage portion of the tutorial
+
+
+---------------------------------------------------------------------------
+
+For this project, 
+
+1. Add calls to Google that query the todo item entered by the user. 
+
+For instance, if the user typed "plant a tree" we will return the 
+Google Search for "plant a tree". The goal would be to see if any 
+relevant information is returned to the user, that might further aid
+their goal implementation
+
+https://stackoverflow.com/questions/16649167/how-to-launch-a-google-search-in-a-new-tab-or-window-from-javascript
+
+2. Make the response stylish. Create cards using Bootstrap
+
+The "gimmick" or "twist" I would like to implement is to make this about
+the combination of Google search and API calls, not the Todo list.
+I just want to show how a simple todo list could be brought into the future
+That I have the ability to modify a simple idea
+
+https://stackoverflow.com/questions/4945820/use-an-external-css-stylesheet-to-customise-the-appearance-of-the-google-cse
