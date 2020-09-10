@@ -26,3 +26,7 @@ I just want to show how a simple todo list could be brought into the future
 That I have the ability to modify a simple idea
 
 https://stackoverflow.com/questions/4945820/use-an-external-css-stylesheet-to-customise-the-appearance-of-the-google-cse
+
+3. Write Jasmine tests
+4. Automate the app using Selenium
+5. Use MongoDB Atlas (and test async/await calls with Jasmine)
