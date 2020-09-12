@@ -30,3 +30,15 @@ https://stackoverflow.com/questions/4945820/use-an-external-css-stylesheet-to-cu
 3. Write Jasmine tests
 4. Automate the app using Selenium
 5. Use MongoDB Atlas (and test async/await calls with Jasmine)
+
+----------------------------------------------------------------------
+
+9/10/2020
+
+The reason this tutorial is SO good is because she doesn't use folders to demonstrate
+MVC. The concept of MVC is neatly OOP'd and defined in ONE file, todo.js. 
+
+This makes you realize MVC is just a 'concept' and the developer may implement
+this idea any way they like. Folders are just a natural way to display the 
+use of MVC to yourself and other programmers. Using files also makes the programmer 
+think about M, V, and C as seperate areas of concern.
